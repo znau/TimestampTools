@@ -1,0 +1,12 @@
+{
+  "ID": "ed53f953a56946318c77286ad0ff65a2",
+  "ActionKeyword": "tt",
+  "Name":"Timestamp Tools",
+  "Description": "A timestamp tools plugin for Flow Launcher",
+  "Author": "znau",
+  "Version": "1.0.0",
+  "Language": "javascript",
+  "Website": "https://github.com/znau/TimestampTools",
+  "ExecuteFileName": "./dist/main.js",
+  "IcoPath": "src\\assets\\favicon.ico"
+}
