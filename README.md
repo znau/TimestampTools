@@ -8,11 +8,21 @@ A timestamp conversion plugin used in Flow Launcher, refer to <https://github.co
 
 Type `tt` get the current timestamp and datetime
 
+![demo1](https://raw.githubusercontent.com/znau/TimestampTools/master/src/assets/demo1.png)
+
 Type `tt` and enter a datetime to convert to timestamp, like ` tt 2008-08-08 18:00:00 `
+
+![demo3](https://raw.githubusercontent.com/znau/TimestampTools/master/src/assets/demo3.png)
 
 Type `tt` and enter a timestamp to convert to datetime, like ` tt 1218189600 ` or ` tt 1218189600000 `
 
+![demo2](https://raw.githubusercontent.com/znau/TimestampTools/master/src/assets/demo2.png)
+
 Type `tt tz` and enter a name of the time zone to show the offset, like ` tt tz shanghai `
+
+![demo4](https://raw.githubusercontent.com/znau/TimestampTools/master/src/assets/demo4.png)
+
+![demo5](https://raw.githubusercontent.com/znau/TimestampTools/master/src/assets/demo5.png)
 
 ## Packages
 <table>
