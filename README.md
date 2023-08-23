@@ -2,7 +2,7 @@
 
 A timestamp conversion plugin used in Flow Launcher, refer to <https://github.com/5-Ason/TimeStampTranslate> of wox
 
-<p align="center">Built with <a href="https://github.com/Joehoel/flow-launcher-plugin-template-node">flow-launcher-plugin-template-node</a></p>
+<p align="left">Built with <a href="https://github.com/Joehoel/flow-launcher-plugin-template-node">flow-launcher-plugin-template-node</a></p>
 
 ## Usage
 
